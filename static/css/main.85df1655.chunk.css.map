@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/main.css"],"names":[],"mappings":"AAAA,aACI,MAAM,CACN,KAAK,CACL,aACJ,CACA,UACI,iBAAkB,CAClB,UAAW,CACX,aACJ","file":"main.85df1655.chunk.css","sourcesContent":[".information {\r\n    left:0;\r\n    top:0;\r\n    overflow:auto;\r\n}\r\n.ilustrat {\r\n    position: relative;\r\n    left: 250px;\r\n    overflow: auto;\r\n}"]}
