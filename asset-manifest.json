@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/calculatorVkMiniApps/static/css/main.16117664.chunk.css",
+    "main.css": "/calculatorVkMiniApps/static/css/main.7bf92459.chunk.css",
     "main.js": "/calculatorVkMiniApps/static/js/main.c5f9a3ae.chunk.js",
     "main.js.map": "/calculatorVkMiniApps/static/js/main.c5f9a3ae.chunk.js.map",
     "runtime-main.js": "/calculatorVkMiniApps/static/js/runtime-main.b7391803.js",
@@ -10,7 +10,7 @@
     "static/js/2.f87fe613.chunk.js.map": "/calculatorVkMiniApps/static/js/2.f87fe613.chunk.js.map",
     "index.html": "/calculatorVkMiniApps/index.html",
     "static/css/2.beefe99c.chunk.css.map": "/calculatorVkMiniApps/static/css/2.beefe99c.chunk.css.map",
-    "static/css/main.16117664.chunk.css.map": "/calculatorVkMiniApps/static/css/main.16117664.chunk.css.map",
+    "static/css/main.7bf92459.chunk.css.map": "/calculatorVkMiniApps/static/css/main.7bf92459.chunk.css.map",
     "static/js/2.f87fe613.chunk.js.LICENSE.txt": "/calculatorVkMiniApps/static/js/2.f87fe613.chunk.js.LICENSE.txt",
     "static/media/main.css": "/calculatorVkMiniApps/static/media/car.2bde1d7e.gif"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.b7391803.js",
     "static/css/2.beefe99c.chunk.css",
     "static/js/2.f87fe613.chunk.js",
-    "static/css/main.16117664.chunk.css",
+    "static/css/main.7bf92459.chunk.css",
     "static/js/main.c5f9a3ae.chunk.js"
   ]
 }
